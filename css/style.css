@@ -29,17 +29,17 @@
 .box:hover .over-layer{
     opacity:1;
 }
-.box .title,
+.box .titleyi,
 .box .description,
 .box .social-links{
     position: relative;
-    top: 11%;
+    top: 10%;
     color: #d3d3d3;
 }
-.box .title{
+.box .titleyi{
     text-transform: capitalize;
 }
-.box .title:after,
+.box .titleyi:after,
 .box .description:after{
     content:"";
     width: 50%;
